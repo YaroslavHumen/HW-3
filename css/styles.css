@@ -27,6 +27,7 @@ form {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    margin-bottom: 50px;
 }
 
 button {
@@ -35,4 +36,8 @@ button {
     padding: 5px 16px;
     width: 120px;
     border-radius: 5px;
+}
+
+#day {
+    width: 150px;
 }
